@@ -30,7 +30,7 @@ The **Smart Attendance Face Recognition System** recognizes and tracks individua
 ### 1. Face Detection and Encoding
 The system detects faces from live camera feeds or static images and generates unique encodings for each individual’s face.
 
-<img src="./images/RA2111003010745.jpg" alt="Face Recognition"/>
+<img src="./Images/RA2111003010745.jpg" alt="Face Recognition"/>
 
 ### 2. Attendance Marking
 Upon successfully recognizing a face, the system marks the individual as present in the attendance CSV file.
